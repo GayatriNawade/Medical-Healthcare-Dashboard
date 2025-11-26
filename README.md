@@ -66,13 +66,6 @@ Users can filter dashboard using multiple medical conditions:
 
 ---
 
-##  Dashboard -
-
- ![Dashboard Screenshot]
-)
-
-
-
 ---
 
 ## 🚀 Key Insights 
